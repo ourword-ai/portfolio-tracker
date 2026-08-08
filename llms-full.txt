@@ -20,15 +20,3 @@ Because the amount is the part that makes people either complacent or miserable,
 
 ### Where is the data stored?
 In the browser, on the device it was typed into. There is no account, no server-side store and no sync.
-
---- 中文 ---
-一个故意不知道你有多少钱的投资看板。你输入的是占比不是金额：它显示集中度、资产分布、以 100 为起点的指数化净值曲线，以及实时加密价格——让你看到组合的形状和买卖区间，而屏幕上没有一个看着难受的数字。数据全部留在浏览器里。
-
-### What does it show?
-Concentration (how much of the portfolio sits in its largest position), allocation across assets, an indexed net-worth line that starts at 100 so trends are readable without amounts, and live prices for the crypto positions.
-
-### Why are there no amounts?
-Because the amount is the part that makes people either complacent or miserable, and it is not the part that informs a decision. Weights, concentration and the distance to your own buy/sell bands are. Entering percentages also means the page never holds anything worth stealing.
-
-### Where is the data stored?
-In the browser, on the device it was typed into. There is no account, no server-side store and no sync.

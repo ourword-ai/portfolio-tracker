@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Market Watch — watch the shape of your portfolio, never the amount</title>
     <link>https://ourword.ai/portfolio-tracker/</link>
+    <atom:link href="https://ourword.ai/portfolio-tracker/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A portfolio dashboard that deliberately refuses to know what you are worth. You enter weights, not amounts: it shows concentration, allocation, an indexed net-worth line starting at 100, and live crypto prices, so you can see the shape of the portfolio and the buy/sell bands without a number on screen that hurts to look at. Everything stays in the browser.</description>
     <language>en</language>
     <item><title>Market Watch</title><link>https://ourword.ai/portfolio-tracker/</link><guid isPermaLink="true">https://ourword.ai/portfolio-tracker/</guid><description>A portfolio dashboard that deliberately refuses to know what you are worth. You enter weights, not amounts: it shows concentration, allocation, an indexed net-worth line starting at 100, and live crypto prices, so you can see the shape of the portfolio and the buy/sell bands without a number on screen that hurts to look at. Everything stays in the browser.</description></item>
