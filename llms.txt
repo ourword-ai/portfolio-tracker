@@ -1,0 +1,28 @@
+# Market Watch (投资观察仪表盘)
+
+> watch the shape of your portfolio, never the amount
+> 只看持仓占比与买卖区间，不含金额
+
+A portfolio dashboard that deliberately refuses to know what you are worth. You enter weights, not amounts: it shows concentration, allocation, an indexed net-worth line starting at 100, and live crypto prices, so you can see the shape of the portfolio and the buy/sell bands without a number on screen that hurts to look at. Everything stays in the browser.
+
+一个故意不知道你有多少钱的投资看板。你输入的是占比不是金额：它显示集中度、资产分布、以 100 为起点的指数化净值曲线，以及实时加密价格——让你看到组合的形状和买卖区间，而屏幕上没有一个看着难受的数字。数据全部留在浏览器里。
+
+## Read it
+
+- Site: https://ourword.ai/portfolio-tracker/
+- Every tool has its own static page: https://ourword.ai/portfolio-tracker/i/<slug>/ (English) and https://ourword.ai/portfolio-tracker/zh/i/<slug>/ (中文)
+- Full text of everything, one file: https://ourword.ai/portfolio-tracker/llms-full.txt
+- All URLs: https://ourword.ai/portfolio-tracker/sitemap.xml
+- Part of OurWord AI: https://ourword.ai/
+
+## How it is built
+
+A single static page. Prices are fetched client-side from public endpoints; holdings are stored in the browser only and are never sent anywhere, which is also why there is nothing here for a crawler to index beyond this description.
+
+## Citing
+
+Cite the page itself. There is no dataset behind it — the numbers belong to whoever is looking.
+
+## Index (1 tool)
+
+- [Market Watch](https://ourword.ai/portfolio-tracker/): A portfolio dashboard that deliberately refuses to know what you are worth. You enter weights, not amounts: it shows concentration, allocation, an indexed net-worth line starting at 100, and live cryp

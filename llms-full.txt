@@ -1,0 +1,34 @@
+# Market Watch — watch the shape of your portfolio, never the amount
+# 投资观察仪表盘 — 只看持仓占比与买卖区间，不含金额
+# https://ourword.ai/portfolio-tracker/
+# Full corpus, plain text. 1 tool.
+
+========================================================================
+## Market Watch
+## 投资观察仪表盘
+URL: https://ourword.ai/portfolio-tracker/
+Source: https://github.com/ourword-ai/portfolio-tracker
+Updated: 2026-08-08
+
+A portfolio dashboard that deliberately refuses to know what you are worth. You enter weights, not amounts: it shows concentration, allocation, an indexed net-worth line starting at 100, and live crypto prices, so you can see the shape of the portfolio and the buy/sell bands without a number on screen that hurts to look at. Everything stays in the browser.
+
+### What does it show?
+Concentration (how much of the portfolio sits in its largest position), allocation across assets, an indexed net-worth line that starts at 100 so trends are readable without amounts, and live prices for the crypto positions.
+
+### Why are there no amounts?
+Because the amount is the part that makes people either complacent or miserable, and it is not the part that informs a decision. Weights, concentration and the distance to your own buy/sell bands are. Entering percentages also means the page never holds anything worth stealing.
+
+### Where is the data stored?
+In the browser, on the device it was typed into. There is no account, no server-side store and no sync.
+
+--- 中文 ---
+一个故意不知道你有多少钱的投资看板。你输入的是占比不是金额：它显示集中度、资产分布、以 100 为起点的指数化净值曲线，以及实时加密价格——让你看到组合的形状和买卖区间，而屏幕上没有一个看着难受的数字。数据全部留在浏览器里。
+
+### What does it show?
+Concentration (how much of the portfolio sits in its largest position), allocation across assets, an indexed net-worth line that starts at 100 so trends are readable without amounts, and live prices for the crypto positions.
+
+### Why are there no amounts?
+Because the amount is the part that makes people either complacent or miserable, and it is not the part that informs a decision. Weights, concentration and the distance to your own buy/sell bands are. Entering percentages also means the page never holds anything worth stealing.
+
+### Where is the data stored?
+In the browser, on the device it was typed into. There is no account, no server-side store and no sync.
